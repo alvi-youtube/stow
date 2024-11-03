@@ -1,0 +1,49 @@
+
+
+
+font_size 14.0
+font_features zero
+
+# BEGIN_KITTY_FONTS
+font_family      family="FiraCode Nerd Font Mono"
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+# END_KITTY_FONTS
+
+# Theme
+foreground #f8f8f2
+background #000000
+url_color #d65c9d
+
+# Cursor
+cursor #8fee96
+
+#background_opacity 0.95
+background_image /home/al/Nextcloud/WALLPAPERS/HD/28.jpg
+background_image_layout scaled
+background_tint 0.8
+
+color0  #000000
+color8  #44475a
+
+color1  #ff5555
+color9  #ff5555
+
+color2  #50fa7b
+color10 #50fa7b
+
+color3  #f1fa8c
+color11 #f1fa8c
+
+color4  #bd93f9
+color12 #bd93f9
+
+color5  #ff79c6
+color13 #ff79c6
+
+color6  #8be9fd
+color14 #8be9fd
+
+color7  #bbbbbb
+color15 #ffffff
