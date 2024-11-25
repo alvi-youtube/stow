@@ -108,9 +108,9 @@
     },
     "clock": {
         // "timezone": "America/New_York",
-        "format": "{:%dd-%mmm-%Y}",
+        "format": "{:%A, %B %d, %I:%M %p}",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><big>{calendar}</big></tt>",
-        "format-alt": "{:%Y-%m-%d}"
+        "format-alt": "{:%Y-%m-%d %r}"
     },
     "cpu": {
         "format": "{usage}% ",
