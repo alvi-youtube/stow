@@ -64,4 +64,4 @@ eval "$(zoxide init --cmd cd zsh)"
 export EDITOR=nvim
 export VISUAL="$EDITOR"
 
-
+export PATH="$HOME/bin:$PATH"
